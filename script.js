@@ -13,7 +13,7 @@ const data = [
   },
   {
     "nama": "David Johnson",
-    "url": "https://www.quackita.com",
+    "url": "https://www.quackit.com",
     "registeredDomain": "2022-08-21",
     "expirationDate": "2023-09-21"
   },
