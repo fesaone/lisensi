@@ -22,14 +22,14 @@ fetch('https://cdn.jsdelivr.net/gh/fesaone/lisensi@main/data2.json')
       console.log('Expiration Date:', expirationDate);
 
       if (currentDate > expirationDate) {
-        console.log('Redirecting to Google...');
-        window.location.href = 'https://www.jsdelivr.com/';
+        console.log('Redirecting to...');
+        window.location.href = 'https://lh3.googleusercontent.com/drive-viewer/AFGJ81p6S5AjgyHGAdzA9nbfzSsb7t6grJiwTRnCpYP8eWpNuKndr10clPURKYYxDfO09TnVHKO_RC8HkLAg5mFluhd7ySVlqA=s1600';
       } else {
         console.log('Domain is registered.');
       }
     } else {
       console.log('Domain is not registered.');
-      window.location.href = 'https://gomotive.com/';
+      window.location.href = 'https://lh3.googleusercontent.com/drive-viewer/AFGJ81p6S5AjgyHGAdzA9nbfzSsb7t6grJiwTRnCpYP8eWpNuKndr10clPURKYYxDfO09TnVHKO_RC8HkLAg5mFluhd7ySVlqA=s1600';
     }
   })
   .catch(error => {
