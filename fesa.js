@@ -1,4 +1,4 @@
-fetch('https://raw.githubusercontent.com/fesaone/lisensi/main/data.json')
+fetch('https://cdn.jsdelivr.net/gh/fesaone/lisensi@main/data.json')
   .then(response => response.json())
   .then(data => {
     if (Array.isArray(data)) {
