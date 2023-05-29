@@ -15,7 +15,7 @@ const data = [
     "nama": "David Johnson",
     "url": "https://www.quackit.com",
     "registeredDomain": "2022-08-21",
-    "expirationDate": "2023-05-21"
+    "expirationDate": "2023-09-21"
   },
   {
     "nama": "Sarah Williams",
