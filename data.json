@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "nama": "John Doe",
+      "url": "https://fesa.one",
+      "registeredDomain": "2023-05-19",
+      "expirationDate": "2024-05-19"
+    },
+    {
+      "nama": "Jane Smith",
+      "url": "https://playcode.io",
+      "registeredDomain": "2022-01-15",
+      "expirationDate": "2023-10-15"
+    },
+    {
+      "nama": "David Johnson",
+      "url": "https://www.quackit.com",
+      "registeredDomain": "2022-08-21",
+      "expirationDate": "2023-09-21"
+    },
+    {
+      "nama": "Sarah Williams",
+      "url": "https://rmedia.id",
+      "registeredDomain": "2023-01-05",
+      "expirationDate": "2024-01-05"
+    },
+    {
+      "nama": "Michael Brown",
+      "url": "https://www.example5.com",
+      "registeredDomain": "2022-12-10",
+      "expirationDate": "2023-12-10"
+    }
+  ]
+}
